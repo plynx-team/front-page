@@ -724,6 +724,7 @@ text-decoration: none;
 text-align: center;
 padding: 72px 0 0 0;
 overflow: hidden;
+display: none;
 }
 
 .reviews h2 {
@@ -829,6 +830,7 @@ line-height: 24px;
 background: #eee;
 padding: 26px 0;
 overflow: hidden;
+display: none;
 }
 
 .partners .wrap {
