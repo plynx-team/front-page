@@ -186,7 +186,7 @@ margin: 0 auto;
 		.slick-list {
 		margin: 0 0 52px 0;
 		}
-		
+
 		.slick-dots li {
 		width: 16px;
 		margin: 0 8px;
@@ -301,7 +301,7 @@ text-decoration: none;
 		.header .wrap {
 		height: 64px;
 		}
-		
+
 		.header__logo {
 		width: 38px;
 		height: 44px;
@@ -311,16 +311,16 @@ text-decoration: none;
 		.header ul li {
 		display: none;
 		}
-		
+
 		.header ul li:last-child {
 		display: inline-block;
 		margin: 0;
 		}
-		
+
 		.header__try {
 		display: none;
 		}
-		
+
 		.header_fixed .header__try {
 		display: inline-block;
 		}
@@ -504,7 +504,7 @@ box-shadow: none;
 		.cover {
 		padding: 160px 0 0 0;
 		}
-		
+
 		.cover h1 {
 		font-size: 48px;
 		line-height: 52px;
@@ -517,7 +517,7 @@ box-shadow: none;
 		line-height: 26px;
 		margin: 0 0 26px 0;
 		}
-		
+
 		.cover__try {
 		flex-direction: column;
 		margin: 0 0 52px 0;
@@ -530,7 +530,7 @@ box-shadow: none;
 		.cover__try span {
 		display: none;
 		}
-		
+
 		.cover__example {
 		margin: 0 0 52px 0;
 		}
@@ -542,11 +542,11 @@ box-shadow: none;
 		.cover__example-16 {
 		margin: 0 20px -32px 20px;
 		}
-		
+
 		.cover__features {
 		margin: 0 0 52px 0;
 		}
-		
+
 		.cover-login {
 		padding: 160px 0;
 		}
@@ -614,7 +614,7 @@ line-height: 28px;
 .features__image {
 width: 840px;
 border-radius: 12px;
-box-shadow: 0px 24px 48px 0px #2557ec;
+box-shadow: 0px 0px 24px 0px #2557ec, 0px 0px 48px 0px #12a772;
 overflow: hidden;
 margin: 0 -25% 0 0;
 }
@@ -657,7 +657,7 @@ text-decoration: none;
 		}
 
 	}
-	
+
 	@media screen and (max-width: 992px){
 
 		.features__block {
@@ -686,22 +686,22 @@ text-decoration: none;
 		.features {
 		padding: 52px 0 0 0;
 		}
-		
+
 		.features h2 {
 		font-size: 48px;
 		line-height: 52px;
 		margin: 0 0 -16px 0;
 		}
-		
+
 		.features__block {
 		padding: 52px 0;
 		}
-		
+
 		.features__text h3 {
 		font-size: 28px;
 		line-height: 34px;
 		}
-		
+
 		.features__text p {
 		font-size: 18px;
 		line-height: 26px;
@@ -710,7 +710,7 @@ text-decoration: none;
 		.features__image {
 		margin: 0 0 36px 0;
 		}
-		
+
 		.features__bottom {
 		padding: 36px 0;
 		}
@@ -800,13 +800,13 @@ line-height: 24px;
 		.reviews {
 		padding: 52px 0 0 0;
 		}
-		
+
 		.reviews h2 {
 		font-size: 48px;
 		line-height: 52px;
 		margin: 0 0 26px 0;
 		}
-		
+
 		.reviews__description {
 		font-size: 18px;
 		line-height: 26px;
@@ -898,7 +898,7 @@ margin: 0 10px 0 0;
 		.footer__logo {
 		margin: 0 0 40px 0;
 		}
-		
+
 		.footer__menu {
 		margin: 0 -20px;
 		}
@@ -909,4 +909,3 @@ margin: 0 10px 0 0;
 		}
 
 	}
-	
