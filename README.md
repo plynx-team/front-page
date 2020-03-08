@@ -5,4 +5,4 @@ Run local version:
 
 
 Build docker image:
-`$ ./build.sh`
+`$ make build`
