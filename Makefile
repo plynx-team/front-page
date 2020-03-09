@@ -1,4 +1,4 @@
-REPO=plynx-team
+REPO=plynxteam
 PORT=3005
 VERSION=$(shell . version.sh; getVersion)
 BASENAME=$(shell basename $(CURDIR))
