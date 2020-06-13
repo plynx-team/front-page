@@ -614,7 +614,7 @@ line-height: 28px;
 .features__image {
 width: 840px;
 border-radius: 12px;
-box-shadow: 0px 0px 24px 0px #2557ec, 0px 0px 48px 0px #12a772;
+box-shadow: 0px 0px 48px 0px #2557ec;
 overflow: hidden;
 margin: 0 -25% 0 0;
 }
